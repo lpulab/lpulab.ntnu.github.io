@@ -1,1 +1,1 @@
-Sitemap: https://lpulab.github.io/lpulab.ntnu.github.io/sitemap.xml
+Sitemap: https://lpulab.github.io/sitemap.xml
