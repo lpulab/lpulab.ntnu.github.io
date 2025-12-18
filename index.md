@@ -1,9 +1,9 @@
 ---
 ---
 
-# lpulab's Website
+# Exploration of language in the mind
 
-An engaging 1-3 sentence description of your lab.
+We aim at understanding how language is used and how it is represented in the mind
 
 {% include section.html %}
 
