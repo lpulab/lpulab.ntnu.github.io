@@ -6,7 +6,5 @@
   # lpulab's Website
 
   Visit **[lpulab.github.io](https://lpulab.github.io)** 🚀
-  
-  Test if I can change with RStudio
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
