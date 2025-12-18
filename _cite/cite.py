@@ -3,6 +3,7 @@ cite process to convert sources and metasources into full citations
 """
 
 import traceback
+import sys
 from importlib import import_module
 from pathlib import Path
 from dotenv import load_dotenv
