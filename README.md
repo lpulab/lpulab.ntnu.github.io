@@ -5,6 +5,6 @@
 
   # lpulab's Website
 
-  Visit **[lpulab.github.io/lpulab.ntnu.github.io](https://lpulab.github.io/lpulab.ntnu.github.io)** 🚀
+  Visit **[lpulab.github.io](https://lpulab.github.io)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
