@@ -1,6 +1,7 @@
 # EDIT MANUALLY
 
-- title: 'Aspect of pasts in Mandarin: An ERP study on the temporal restriction of
+- id: " "
+  title: 'Aspect of pasts in Mandarin: An ERP study on the temporal restriction of
     the perfectives -le and -guo'
   publisher: 21st National Conference on Linguistics (NCL-21)
   date: '2020-10-01'
@@ -8,7 +9,8 @@
   orcid: 0000-0002-8902-0758
   plugin: orcid.py
   file: orcid.yaml
-- title: 'Processing past time and discontinuity aspect: Event-related potentials
+- id: " "
+  title: 'Processing past time and discontinuity aspect: Event-related potentials
     reveal different neuronal brain responses elicited by the Mandarin verbal morpheme
     -guo'
   publisher: 3rd International Conference on Theoretical East Asian Psycholinguistics
@@ -18,26 +20,16 @@
   orcid: 0000-0002-8902-0758
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.jneuroling.2021.100998
-  title: 'Processing past time reference in a tenseless language: An ERP study on
-    the Mandarin aspectual morphemes -le and -guo'
-  authors:
-  - Aymeric Collart
-  - Shiao-hui Chan
-  publisher: Journal of Neurolinguistics
-  date: '2021-08-01'
-  link: https://doi.org/gq9hjg
-  orcid: 0000-0002-8902-0758
-  plugin: sources.py
-  file: sources.yaml
-- title: The temporal constraints of le1 revisited
+- id: " "
+  title: The temporal constraints of le1 revisited
   publisher: 13th Workshop on Formal Syntax and Semantics (FOSS-13)
   date: '2022-02-11'
   link: https://sites.google.com/view/foss-13/%E9%A6%96%E9%A0%81-home
   orcid: 0000-0002-8902-0758
   plugin: orcid.py
   file: orcid.yaml
-- title: 'Not all the pasts are the same: An ERP study of the temporal constraints
+- id: " "
+  title: 'Not all the pasts are the same: An ERP study of the temporal constraints
     of the Mandarin aspectual markers -le and -guo'
   publisher: 33rd CUNY Conference on Human Sentence Processing (CUNY-33)
   date: '2022-02-11'
@@ -45,7 +37,8 @@
   orcid: 0000-0002-8902-0758
   plugin: orcid.py
   file: orcid.yaml
-- title: 'Temporal relations electrified: An ERP study on the perfective marker -le
+- id: " "
+  title: 'Temporal relations electrified: An ERP study on the perfective marker -le
     in Mandarin Chinese'
   publisher: 20th National Conference on Linguistics (NCL-20)
   date: '2022-02-11'
@@ -53,7 +46,8 @@
   orcid: 0000-0002-8902-0758
   plugin: orcid.py
   file: orcid.yaml
-- title: 'Aspect is distinct from time reference: An ERP study of the perfective marker
+- id: " "
+  title: 'Aspect is distinct from time reference: An ERP study of the perfective marker
     -le in Mandarin Chinese'
   publisher: 32nd CUNY Conference on Human Sentence Processing (CUNY-32)
   date: '2022-02-11'
@@ -61,7 +55,8 @@
   orcid: 0000-0002-8902-0758
   plugin: orcid.py
   file: orcid.yaml
-- title: Same interpretation, different process? The case of verbal-le and You+VP
+- id: " "
+  title: Same interpretation, different process? The case of verbal-le and You+VP
     in Taiwan Mandarin
   publisher: "17th International Conference on the Processing of East Asian Languages\
     \ and 9th Conference on Language, Discourse, and Cognition (joint conference ICPEAL\
@@ -71,7 +66,8 @@
   orcid: 0000-0002-8902-0758
   plugin: orcid.py
   file: orcid.yaml
-- title: "When time is a fact: A semantic and time-relational analysis of \u2018<i>you</i>\
+- id: " "
+  title: "When time is a fact: A semantic and time-relational analysis of \u2018<i>you</i>\
     \ + VP\u2019 in Taiwan Mandarin"
   publisher: 19th Chinese Lexical Semantics Workshop (CLSW-19)
   date: '2018-02-11'
