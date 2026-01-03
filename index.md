@@ -8,7 +8,7 @@ editor_options:
 
 {:.center}
 Welcome to the website of the Language Processing and Usage Lab, hosted
-at the Department of Chinese of National Taiwan Normal University!
+at the Department of Chinese at National Taiwan Normal University!
 
 {:.center}
 We aim to understand how language is used and how it is represented in
@@ -20,7 +20,7 @@ diversity as a whole: diversity of languages, diversity of individuals
 backgrounds, etc.), and diversity of topics.
 
 {:.center}
-**Language studied so far:** English, Paiwan, Tagalog, Taiwan Mandarin,
+**Languages studied so far:** English, Paiwan, Tagalog, Taiwan Mandarin,
 Truku Seediq
 {:.center}
 
@@ -58,7 +58,7 @@ title="Our Projects and More" flip=true style="bare" text=text %}
 
 {% capture text %}
 
-This is the team of the LPU lab, click here to know more about us!
+Meet the team behind the LPU lab. Click here to know more about us!
 
 {% include button.html link="team" text="Meet our team" icon="fa-solid
 fa-arrow-right" flip=true style="bare" %}
