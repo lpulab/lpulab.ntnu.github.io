@@ -1,5 +1,5 @@
 ---
-title: Research
+title: Projects & more
 nav:
   order: 2
   tooltip: Projects, resources and tutorials

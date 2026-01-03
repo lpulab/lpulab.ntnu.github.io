@@ -15,7 +15,7 @@ We aim at understanding how language is used and how it is represented in the mi
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Maybe the most straightforward way to understand our researsh is to browse through our publications and conference presentations!
 
 {%
   include button.html
@@ -38,7 +38,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+You can have a look at the past and on-going projects run at the LPU lab.
+We are also committed to open science. You can find nore resources there, including tutorials, the datasets associated with our publications, and companion websites.
 
 {%
   include button.html
@@ -55,7 +56,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="projects"
-  title="Our Projects"
+  title="Our projects and more"
   flip=true
   style="bare"
   text=text
@@ -63,7 +64,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+This is the team of the LPU lab, click here to know more about us!
 
 {%
   include button.html
